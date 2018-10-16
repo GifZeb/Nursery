@@ -1,3 +1,5 @@
+# This is my repository for Hardware Project. My sensor is SHT31 Humisity and temperature sensor.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/GifZeb/Nursery/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

@@ -3,7 +3,7 @@ The SHt31 sensor is one of the most accurate device with truw I2C interface. It 
 
 ## Week 7: Progress Report
 
-I finished fritzing and breadboardint the circuit.
+I finished fritzing and breadboarding the circuit.
 ### Fritzing
 ![sht31fritz](https://user-images.githubusercontent.com/43179715/47379683-93213e00-d6c9-11e8-83c8-b9cf571ca293.PNG)
 
@@ -16,6 +16,7 @@ My address on the screen (0x45)
 ![whatsapp image 2018-10-23 at 1 44 14 pm](https://user-images.githubusercontent.com/43179715/47379803-ef845d80-d6c9-11e8-97a3-04ec8518f519.jpeg)
 
 This week i was working on setting up the vnc server. I had lxde operating system on my raspberry pi which being a light version didn't had many features availble, also it has less interfaces compared to the regular os. Therefore, i switched to remote desktop connection and it worked fine.
+Also i had a problem while retreving the address. I got 0x44 which was wrong and then after searching a bit i figured out that it has two addresses. TO fix it i connected vin to adr and then it worked for me.
 
 
 

@@ -1,16 +1,19 @@
 # SHT31 Humidity and Temperature Sensor
 
 ## Week 7: Progress Report
-I finished fritzing and breadboardint the circuit.
 
+I finished fritzing and breadboardint the circuit.
+### Fritzing
 ![sht31fritz](https://user-images.githubusercontent.com/43179715/47379683-93213e00-d6c9-11e8-83c8-b9cf571ca293.PNG)
 
-breadboarding
+### Breadboarding
 
 ![whatsapp image 2018-10-23 at 1 44 14 pm 1](https://user-images.githubusercontent.com/43179715/47379774-daa7ca00-d6c9-11e8-9b45-ac3d255f5b0c.jpeg)
 
+### Address
 My address on the screen (0x45)
 ![whatsapp image 2018-10-23 at 1 44 14 pm](https://user-images.githubusercontent.com/43179715/47379803-ef845d80-d6c9-11e8-97a3-04ec8518f519.jpeg)
+
 
 
 

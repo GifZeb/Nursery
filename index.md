@@ -7,6 +7,7 @@ The SHT31 sensor is one of the most accurate device with truw I2C interface. It 
 
 ### Fritizing
 1. The Fritzing file is available here:
+// Can't insert the .fzz file.
 
 2.It has a breadboard view:
 ![fritz_bb](https://user-images.githubusercontent.com/43179715/47754198-7d36ee80-dc70-11e8-9cf5-577c619073cd.png)
@@ -17,14 +18,13 @@ The SHT31 sensor is one of the most accurate device with truw I2C interface. It 
 4. It has a PCB view:
 ![fritz_pcb](https://user-images.githubusercontent.com/43179715/47754222-8fb12800-dc70-11e8-87b3-98ad89bb7866.png)
 
-5. A Bill of Materials can be exported:
+5. A Bill of Materials can be exported: 
+[week9budgetHP.xlsx](https://github.com/GifZeb/Nursery/files/2532620/week9budgetHP.xlsx)
 
-6. As well as Gerber files: 
+
+
+
 ## Week 7: Progress Report
-
-I finished fritzing and breadboarding the circuit.
-### Fritzing
-![sht31fritz](https://user-images.githubusercontent.com/43179715/47379683-93213e00-d6c9-11e8-83c8-b9cf571ca293.PNG)
 
 ### Breadboarding
 

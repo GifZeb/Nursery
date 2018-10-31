@@ -21,6 +21,9 @@ The SHT31 sensor is one of the most accurate device with truw I2C interface. It 
 5. A Bill of Materials can be exported: 
 [week9budgetHP.xlsx](https://github.com/GifZeb/Nursery/files/2532620/week9budgetHP.xlsx)
 
+### Problems
+Major problem I had this week was alignment of the compnents so that in pcb the wires doesn't cross eachother. VIA solved the whole problem of making underground and on ground connections.
+
 
 
 

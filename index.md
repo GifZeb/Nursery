@@ -1,19 +1,25 @@
 # SHT31 Humidity and Temperature Sensor
-The SHt31 sensor is one of the most accurate device with truw I2C interface. It has +-2% relative humidity and +-0.3C accuracy. It has two address options and is 3V or 5V compliant.
 
-## Week 9: Gerber File Creation
+## Introduction
+The SHT31 sensor is one of the most accurate device with truw I2C interface. It has +-2% relative humidity and +-0.3C accuracy. It has two address options and is 3V or 5V compliant. 
 
-### Fixed Fritizing
+## Week 9: SHT 31 Electronic Design Files
+
+### Fritizing
+1. The Fritzing file is available here:
+
+2.It has a breadboard view:
 ![fritz_bb](https://user-images.githubusercontent.com/43179715/47754198-7d36ee80-dc70-11e8-9cf5-577c619073cd.png)
 
-
-### Schematics
+3. It has a schematic view:
 ![fritz_schem](https://user-images.githubusercontent.com/43179715/47754208-84f69300-dc70-11e8-8961-65d99d81cf6e.png)
 
-
-### PCB Creation
+4. It has a PCB view:
 ![fritz_pcb](https://user-images.githubusercontent.com/43179715/47754222-8fb12800-dc70-11e8-87b3-98ad89bb7866.png)
 
+5. A Bill of Materials can be exported:
+
+6. As well as Gerber files: 
 ## Week 7: Progress Report
 
 I finished fritzing and breadboarding the circuit.

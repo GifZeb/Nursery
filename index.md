@@ -7,26 +7,26 @@ The SHT31 sensor is one of the most accurate device with truw I2C interface. It 
 
 ### Fritizing
 
-1. The Fritzing file is available here:
+ The Fritzing file is available here:
   Can't insert the .fzz file
 
-2. It has a breadboard view:
+ It has a breadboard view:
 
 ![fritz_bb](https://user-images.githubusercontent.com/43179715/47754198-7d36ee80-dc70-11e8-9cf5-577c619073cd.png)
 
-3. It has a schematic view:
+ It has a schematic view:
 
 ![fritz_schem](https://user-images.githubusercontent.com/43179715/47754208-84f69300-dc70-11e8-8961-65d99d81cf6e.png)
 
-4. It has a PCB view:
+ It has a PCB view:
 
 ![fritz_pcb](https://user-images.githubusercontent.com/43179715/47754222-8fb12800-dc70-11e8-87b3-98ad89bb7866.png)
 
-5. A Bill of Materials can be exported: 
+ A Bill of Materials can be exported: 
 
 [week9budgetHP.xlsx](https://github.com/GifZeb/Nursery/files/2532620/week9budgetHP.xlsx)
 
-### Problems
+#### Problems
 Major problem I had this week was alignment of the compnents so that in pcb the wires doesn't cross eachother. VIA solved the whole problem of making underground and on ground connections.
 
 

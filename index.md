@@ -8,7 +8,7 @@ The SHT31 sensor is one of the most accurate device with truw I2C interface. It 
 ### Fritizing
 
 1. The Fritzing file is available here:
-  Can't insert the .fzz file.
+  Can't insert the .fzz file
 
 2. It has a breadboard view:
 

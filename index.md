@@ -3,6 +3,25 @@
 ## Introduction
 The SHT31 sensor is one of the most accurate device with truw I2C interface. It has +-2% relative humidity and +-0.3C accuracy. It has two address options and is 3V or 5V compliant. 
 
+## November 6th, 2018
+
+
+### PCB Soldering
+![99a0e5b6-66c7-4494-9c4c-d72fc71df572](https://user-images.githubusercontent.com/43179715/48144165-5f741580-e27e-11e8-89b8-15479172b483.jpg)
+
+![244c63f0-6ad1-4105-a083-7b1c4f3fef98](https://user-images.githubusercontent.com/43179715/48144166-600cac00-e27e-11e8-9f60-26a3d5c9f80a.jpg)
+
+![e6892de4-148f-4f5d-87b2-3f899932a32a](https://user-images.githubusercontent.com/43179715/48144167-600cac00-e27e-11e8-93f9-62b8965009c8.jpg)
+
+
+### PCB Designing
+![26d9db68-babf-4e08-b1f8-e941633780b2](https://user-images.githubusercontent.com/43179715/48144226-7a468a00-e27e-11e8-905b-b1718694889c.jpg)
+
+![87317c96-9375-49fe-abaa-2463bd19926b](https://user-images.githubusercontent.com/43179715/48144228-7a468a00-e27e-11e8-8c4f-84391e6ffacc.jpg)
+
+![e197f841-ea1a-4982-9d7d-946f0255ea9d](https://user-images.githubusercontent.com/43179715/48144230-7a468a00-e27e-11e8-9eaa-351fc4ceebbc.jpg)
+
+
 ## October 23rd, 2018
 
 ### PCB Design

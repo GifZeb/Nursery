@@ -6,12 +6,11 @@ The SHT31 sensor is one of the most accurate device with truw I2C interface. It 
 ## November 13th, 2018
 
 ### PCB Powerup
-Power Controller Board is connected to the raspberry pi and all the connections are working efficiently. After running the python script code 
+Power Controller Board is connected to the raspberry pi and all the connections are working efficiently. After running the python script code in loop, accurate readings are being shown.
 
 ![rdp](https://user-images.githubusercontent.com/43179715/48446744-0cabc980-e768-11e8-82f3-a5d5947c44c8.PNG)
 
 ![reading](https://user-images.githubusercontent.com/43179715/48446745-0cabc980-e768-11e8-93b6-feaa5b653958.PNG)
-
 
 
 ## November 6th, 2018

@@ -3,6 +3,14 @@
 ## Introduction
 The SHT31 sensor is one of the most accurate device with truw I2C interface. It has +-2% relative humidity and +-0.3C accuracy. It has two address options and is 3V or 5V compliant. 
 
+## November 13th, 2018
+
+![rdp](https://user-images.githubusercontent.com/43179715/48446744-0cabc980-e768-11e8-82f3-a5d5947c44c8.PNG)
+
+![reading](https://user-images.githubusercontent.com/43179715/48446745-0cabc980-e768-11e8-93b6-feaa5b653958.PNG)
+
+
+
 ## November 6th, 2018
 
 

@@ -4,10 +4,7 @@
 The SHT31 sensor is one of the most accurate device with truw I2C interface. It has +-2% relative humidity and +-0.3C accuracy. It has two address options and is 3V or 5V compliant. The address being used in this project is 0x45. 
 
 ## November 13th, 2018
-
 ### PCB Mounted
-
-
 
 ### PCB Powerup
 Power Controller Board is connected to the raspberry pi and all the connections are working efficiently. After running the python script code in loop, accurate readings are being shown.
@@ -18,12 +15,13 @@ Power Controller Board is connected to the raspberry pi and all the connections 
 
 ### Budget Update
 
-Budget is still the same as no new parts were required. The project budget can be viewed here.
+Budget is still the same as no new parts were required. The project budget can be viewed
+https://github.com/GifZeb/Nursery/blob/master/budget%20.docx
 
 ### Schedule Update
 
 The project is going as per schedule. I have started working on my next week requirements which is to have a case designned for my rpi and sensor. I will be using corel draw for the design part.
-
+<https://github.com/GifZeb/Nursery/blob/master/Schedule.mpp>.
 
 ## November 6th, 2018
 

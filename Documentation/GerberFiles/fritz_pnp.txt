@@ -1,0 +1,23 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=fritz
+*Date=18:27:01
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;30.1645;-22.44;0;Bottom;Via6
+2;;;30.1645;-37.68;0;Bottom;Via5
+3;;;41.5945;-24.98;90;Bottom;Part1
+4;;;14.9245;-30.06;0;Bottom;Via3
+5;;;20.0045;-27.52;0;Bottom;Via4
+6;;;9.84448;-45.3;0;Bottom;Via2
+7;;;28.3751;-38.7825;-90;Bottom;Raspberry Pi 1
+8;;;25.0845;-14.82;0;Bottom;Via1

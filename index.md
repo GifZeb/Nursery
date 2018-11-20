@@ -6,9 +6,9 @@ The SHT31 sensor is one of the most accurate device with truw I2C interface. It 
 ## November 20th, 2018
 ### Case Design
 
-![whatsapp image 2018-11-20 at 4 01 50 pm](https://user-images.githubusercontent.com/43179715/48802682-ea70f900-ecdd-11e8-9ab0-de0f8e38801e.jpeg)
+![design](https://user-images.githubusercontent.com/43179715/48802788-3c198380-ecde-11e8-83cd-1426e78aa705.jpeg)
 
-![whatsapp image 2018-11-20 at 4 01 49 pm](https://user-images.githubusercontent.com/43179715/48802683-eba22600-ecdd-11e8-93e7-96b685bbc336.jpeg)
+![usbports](https://user-images.githubusercontent.com/43179715/48802789-3c198380-ecde-11e8-87cc-513a62a06afa.jpeg)
 
 ## November 13th, 2018
 ### PCB Mounted

@@ -36,6 +36,13 @@ https://github.com/GifZeb/Nursery/blob/master/budget%20.docx
 The project is going as per schedule. I have started working on my next week requirements which is to have a case designned for my rpi and sensor. I will be using corel draw for the design part.
 <https://github.com/GifZeb/Nursery/blob/master/Schedule.mpp>.
 
+### Progress Report
+
+After mounting raspberry pi on my sensor, I started working on python code to get the reading from the sensor. There were some problems like import statement not being recognised. I figured out how to fix it when I came to know that every sensor have its own libraries which needed to be installed.
+sudo pip3 install adafruit-circuitpython-sht31d
+Reference:
+https://learn.adafruit.com/adafruit-sht31-d-temperature-and-humidity-sensor-breakout/python-circuitpython
+
 ## November 6th, 2018
 
 ### PCB Soldering

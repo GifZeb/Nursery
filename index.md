@@ -14,6 +14,7 @@ The SHT31 sensor is one of the most accurate device with truw I2C interface. It 
 
 Find my design file in pdf underneath:
 [Pi2CaseX6.pdf](https://github.com/GifZeb/Nursery/files/2601769/Pi2CaseX6.pdf)
+[Click here](https://github.com/GifZeb/Nursery/blob/master/Documentation/DesignFiles/Pi2CaseX6.cdr) to get the CorelDRAW design files used for the case design.
 
 ## November 13th, 2018
 ### PCB Mounted

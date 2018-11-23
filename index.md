@@ -17,6 +17,11 @@ Find my design file in pdf underneath:
 
 [Click here](https://github.com/GifZeb/Nursery/blob/master/Documentation/DesignFiles/Pi2CaseX6.cdr) to get the CorelDRAW design files used for the case design.
 
+### Budget Update
+No new changes in the budget. Budget can be viewed [here](https://github.com/GifZeb/Nursery/blob/master/budget%20.docx)
+
+### Schedule Update
+I am on same pace as my decided schedule [here](https://github.com/GifZeb/Nursery/blob/master/Schedule.mpp)
 ## November 13th, 2018
 ### PCB Mounted
 ![whatsapp image 2018-11-13 at 10 50 46 pm](https://user-images.githubusercontent.com/43179715/48459391-c9694f00-e797-11e8-87b8-390ad1ba5433.jpeg)

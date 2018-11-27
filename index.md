@@ -5,7 +5,7 @@ The SHT31 sensor is one of the most accurate device with truw I2C interface. It 
 
 ## November 27th, 2018
 Presentation Document
-[SHT 31.pptx](https://github.com/GifZeb/Nursery/files/2621591/SHT.31.pptx)
+[SHT 31 (1).pptx](https://github.com/GifZeb/Nursery/files/2621928/SHT.31.1.pptx)
 
 
 ## November 20th, 2018

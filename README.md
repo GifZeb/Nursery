@@ -65,13 +65,14 @@ i2c Detection Proof (0x45)
 ## Mechanical Assembly
 Either you can connect you pi to your sensor using breadboard connections or you can solder your sensor.
 Breadboarding is just to check if sensor works as expected or their is a need to change some connections or if there is a damaged component.
+
 | SHT31 | Raspberry Pi |
-|---|---|
-| VIN   | 3V |
-| GND   | GND |
-| SCL   | SCL |
-| SDA   | SDA |
-| ADDR  | VIN |
+| --- | --- |
+| VIN | 3V |
+| GND | GND |
+| SCL | SCL |
+| SDA | SDA |
+| ADDR| VIN |
 
 
 

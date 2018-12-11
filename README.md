@@ -1,7 +1,20 @@
 # SHT31
-## Table of Contents
-1. [Introduction](#introduction) 
+ 
 ![design](https://user-images.githubusercontent.com/43179715/48802788-3c198380-ecde-11e8-83cd-1426e78aa705.jpeg)
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Purpose](#purpose)
+3. [System Diagram](#systemdiagram)
+4. [Materials](#materials/components)
+5. [Budget](#budget)
+6. [Time Commitment](#timecommitment)
+7. [Setting up Raspberry Pi](#settingupraspberrypi)
+8. [Hardware Testing](#hardwaretesting)
+9. [Mechanical Assembly](#mechanicalassembly)
+10. [PCB Soldering](#pcb/soldering)
+11. [Unit Testing](#unittesting)
+12. [Production Testing](#productiontesting)
 
 ## Introduction
 I decided to work on SHT31-D which is used to measure temperature and humidity. It is one of the most accurate sensors having excellent ±2% relative humidity and ±0.3°C accuracy.
@@ -61,7 +74,7 @@ After soldering sensor, use the pcb schema underneath and make a power controlle
 
 ![99a0e5b6-66c7-4494-9c4c-d72fc71df572](https://user-images.githubusercontent.com/43179715/48144165-5f741580-e27e-11e8-89b8-15479172b483.jpg)
 
-## Power Up
+### Power Up
 After all the components are connected, your PCb Should look like this
 ![rdp](https://user-images.githubusercontent.com/43179715/48446744-0cabc980-e768-11e8-82f3-a5d5947c44c8.PNG)
 

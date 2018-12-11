@@ -15,6 +15,7 @@
 10. [PCB Soldering](#pcb-Soldering)
 11. [Unit Testing](#unit-Testing)
 12. [Production Testing](#production-Testing)
+13. [Resources](#resources)
 
 ## Introduction
 I decided to work on SHT31-D which is used to measure temperature and humidity. It is one of the most accurate sensors having excellent ±2% relative humidity and ±0.3°C accuracy.
@@ -125,4 +126,7 @@ If you are successful in making your case, it should look like this.
 ![usbports](https://user-images.githubusercontent.com/43179715/48802789-3c198380-ecde-11e8-87cc-513a62a06afa.jpeg)
 
 ## Production Testing
+
+## Resources
+For detailed information and picture of sensor on SHT31-D sensor, I refered to [adafruit site](https://learn.adafruit.com/adafruit-sht31-d-temperature-and-humidity-sensor-breakout/assembly)
 

@@ -67,7 +67,7 @@ If the connections are correct then you should be able to get address from your 
 This wiring diagram could be helpful to make the connections on breadboard
 ![fritz_bb](https://user-images.githubusercontent.com/43179715/47754198-7d36ee80-dc70-11e8-9cf5-577c619073cd.png)
 
-###i2c Detection Proof (0x45)
+### i2c Detection Proof (0x45)
 Type the following command in terminal
 
 ````
@@ -126,7 +126,7 @@ If you are successful in making your case, it should look like this.
 ![usbports](https://user-images.githubusercontent.com/43179715/48802789-3c198380-ecde-11e8-87cc-513a62a06afa.jpeg)
 
 ## Production Testing
-
+For mass production of this sensor, there are very rare chances of any drawbacks. 
 ## Resources
 For detailed information and picture of sensor on SHT31-D sensor, I refered to [adafruit site](https://learn.adafruit.com/adafruit-sht31-d-temperature-and-humidity-sensor-breakout/assembly)
 

@@ -39,9 +39,6 @@ To get the accurate tempreture and humidity values from SHT31-D sensor.
 
 ## Time Commitment
 This project can be done in one weekend. It will take about 2 to 4 days to recieve the parts. If you want to skip breadboarding then you can get started with the soldering which would take about 10 minutes but testing can take about 2 hours. After getting address, it should take one more hour to run the python script and get the readings.
-This is my schedule when i started this project.
-
-![scedule](https://user-images.githubusercontent.com/43179715/49835214-7bcb0c80-fd6c-11e8-9d16-ea25c0018891.png)
 
 ## Setting up Raspberry Pi
 First step after getting your raspberry pi is to set it up. Follow the steps below:
@@ -91,16 +88,16 @@ Breadboarding is just to check if sensor works as expected or their is a need to
 
 
 
-## PCB Soldering
-After soldering sensor, use the pcb schema underneath and make a power controller board to attach your sensor and raspberry pi.
-
+## PCB
+Here is my PCB Design:
 ![fritz_pcb](https://user-images.githubusercontent.com/43179715/47754222-8fb12800-dc70-11e8-87b3-98ad89bb7866.png)
 
-I got this after soldering my pcb and there are socket headers to connect raspberry pi and sensor to the pcb.
+After soldering my pcb, it looks like this:
 ![99a0e5b6-66c7-4494-9c4c-d72fc71df572](https://user-images.githubusercontent.com/43179715/48144165-5f741580-e27e-11e8-89b8-15479172b483.jpg)
+there are socket headers to connect raspberry pi and sensor to the pcb.
 
 ### Power Up
-After all the components are connected, your PCb Should look like this.
+After all the components are connected, your PCB should look like this.
 ![whatsapp image 2018-11-13 at 10 50 46 pm](https://user-images.githubusercontent.com/43179715/48459391-c9694f00-e797-11e8-87b8-390ad1ba5433.jpeg) 
 
 ## Unit Testing

@@ -1,5 +1,6 @@
 # SHT31
-
+## Table of Contents
+1. [Introduction](#introduction) 
 ![design](https://user-images.githubusercontent.com/43179715/48802788-3c198380-ecde-11e8-83cd-1426e78aa705.jpeg)
 
 ## Introduction
@@ -72,6 +73,7 @@ sudo apt-get upgrade
 To install sht31d libraies, run this command
 sudo pip3 install adafruit-circuitpython-sht31d
 
+## Python Script
 You can use the code underneath to get the readings from your sensor:
 ![python](https://user-images.githubusercontent.com/43179715/49831177-4240d400-fd61-11e8-8916-dc696a5d254c.PNG)
 

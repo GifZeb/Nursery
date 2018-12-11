@@ -55,6 +55,10 @@ Raspberry Pi VIN to sensor ADDR
 If the connections are correct then you should be able to get address from your sensor.
 ![whatsapp image 2018-10-23 at 1 44 14 pm 1](https://user-images.githubusercontent.com/43179715/47379774-daa7ca00-d6c9-11e8-9b45-ac3d255f5b0c.jpeg)
 
+### Raspberry Pins
+This wiring diagram could be helpful to make the connections on breadboard
+![fritz_bb](https://user-images.githubusercontent.com/43179715/47754198-7d36ee80-dc70-11e8-9cf5-577c619073cd.png)
+
 i2c Detection Proof (0x45)
 ![whatsapp image 2018-10-23 at 1 44 14 pm](https://user-images.githubusercontent.com/43179715/47379803-ef845d80-d6c9-11e8-97a3-04ec8518f519.jpeg)
 
@@ -68,6 +72,8 @@ Breadboarding is just to check if sensor works as expected or their is a need to
 | SCL   | SCL |
 | SDA   | SDA |
 | ADDR  | VIN |
+
+
 
 ## PCB Soldering
 After soldering sensor, use the pcb schema underneath and make a power controller board

@@ -27,13 +27,19 @@ First step after getting your raspberry pi is to set it up. Follow the steps bel
 After software installation, either you can connect you pi to your sensor using breadboard connections or you can solder your sensor.
 Breadboarding is just to check if sensor works as expected or their is a need to change some connections or if there is a damaged component.
 
-### PCB / Soldering
-After 
+## PCB / Soldering
+After soldering sensor, use the pcb schema underneath and make a power controller board
 
-Power Up
+![fritz_pcb](https://user-images.githubusercontent.com/43179715/47754222-8fb12800-dc70-11e8-87b3-98ad89bb7866.png)
 
-Unit Testing
+![99a0e5b6-66c7-4494-9c4c-d72fc71df572](https://user-images.githubusercontent.com/43179715/48144165-5f741580-e27e-11e8-89b8-15479172b483.jpg)
 
-Production Testing
+## Power Up
+After all the components are connected, your PCb Should look like this
+![rdp](https://user-images.githubusercontent.com/43179715/48446744-0cabc980-e768-11e8-82f3-a5d5947c44c8.PNG)
+
+## Unit Testing
+
+## Production Testing
 
 Is the project reproducible by following your instructions?

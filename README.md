@@ -23,19 +23,22 @@ I decided to work on SHT31-D which is used to measure temperature and humidity. 
 To get the accurate tempreture and humidity values from SHT31-D sensor.
 
 ## System Diagram 
+
 ![systemdiagram](https://user-images.githubusercontent.com/43179715/49833646-268cfc00-fd68-11e8-81e4-7aaaad524b41.PNG)
 
 ## Materials
-Raspberry Pi
-SHT31-D Temperature/Humidity Sensor
-Socket Header to attach sensor and pi together on PCB
-Case to hold ciruit together and prevent it from damage
+- Raspberry Pi
+- SHT31-D Temperature/Humidity Sensor
+- Breadboard and jumper wires for initial testing
+- Socket Header to attach sensor and pi together on PCB
+- Case to hold ciruit together and prevent it from damage
 
 ## Budget
 ![capture](https://user-images.githubusercontent.com/43179715/49830051-1a03a600-fd5e-11e8-8a75-430511c91fd6.PNG)
 
 ## Time Commitment
-This project can be done in one weekend. Most of the time is required to get the 
+This project can be done in one weekend. It will take about 2 to 4 days to recieve the parts. If you want to skip breadboarding then you can get started with the soldering which would take about 10 minutes but testing can take about 2 hours. After getting address, it should take one more hour to run the python script and get the readings.
+This is my schedule when i started this project.
 ![schedule](https://user-images.githubusercontent.com/43179715/47048248-d6c6f580-d167-11e8-9581-ff30f216215f.PNG)
 
 ## Setting up Raspberry Pi
@@ -46,7 +49,7 @@ First step after getting your raspberry pi is to set it up. Follow the steps bel
 4. Switch on the power and change finish the setup.
 
 ## Hardware Testing
-After software installation, make the connections using jumper wires from sensor to breadboard and breadboard to raspberry pi.
+After software installation, i made the connections using jumper wires from sensor to breadboard and breadboard to raspberry pi.
 Wiring:
 ---
 - Raspberry Pi 3V  to sensor VIN
@@ -54,7 +57,7 @@ Wiring:
 - Raspberry Pi SCL to sensor SCL
 - Raspberry Pi SDA to sensor SDA
 - Raspberry Pi VIN to sensor ADDR
----
+
 
 If the connections are correct then you should be able to get address from your sensor.
 ![whatsapp image 2018-10-23 at 1 44 14 pm 1](https://user-images.githubusercontent.com/43179715/47379774-daa7ca00-d6c9-11e8-9b45-ac3d255f5b0c.jpeg)
@@ -63,10 +66,12 @@ If the connections are correct then you should be able to get address from your 
 This wiring diagram could be helpful to make the connections on breadboard
 ![fritz_bb](https://user-images.githubusercontent.com/43179715/47754198-7d36ee80-dc70-11e8-9cf5-577c619073cd.png)
 
-i2c Detection Proof (0x45)
+###i2c Detection Proof (0x45)
 Type the following command in terminal
 
-<b>i2cdetect -y 1</b>
+````
+i2cdetect -y 1
+````
 
 ![whatsapp image 2018-10-23 at 1 44 14 pm](https://user-images.githubusercontent.com/43179715/47379803-ef845d80-d6c9-11e8-97a3-04ec8518f519.jpeg)
 

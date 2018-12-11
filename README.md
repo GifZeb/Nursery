@@ -43,10 +43,10 @@ This is my schedule when i started this project.
 
 ## Setting up Raspberry Pi
 First step after getting your raspberry pi is to set it up. Follow the steps below:
-1. Download Raspbian to be installed on your raspberry pi.
-2. Use SDCardFormatter to format your SD card and flash downloaded OS on your SD card.
+1. Download [Raspbian](https://www.raspberrypi.org/downloads/) to be installed on your raspberry pi.
+2. Use [SDCardFormatter](https://www.sdcard.org/downloads/formatter_4/) to format your SD card and flash downloaded OS on your SD card.
 3. Insert SD card in raspberry pi and connect the side devices like keyboard and mouse.
-4. Switch on the power and change finish the setup.
+4. Switch on the power and finish the further setup.
 
 ## Hardware Testing
 After software installation, i made the connections using jumper wires from sensor to breadboard and breadboard to raspberry pi.

@@ -58,6 +58,14 @@ sudo pip3 install adafruit-circuitpython-sht31d
 You can use the code underneath to get the readings from your sensor:
 ![python](https://user-images.githubusercontent.com/43179715/49831177-4240d400-fd61-11e8-8916-dc696a5d254c.PNG)
 
+### Enclosure
+If your raspberry pi is working with the sensor and you are getting temperature and humidity readings then you can go furthed and make your acrylic case to prevent your raspberry pi and sensor from getting damaged.
+You can use Corel Draw to make a case. Click here to get the files for your case.
+
+If you are successful in making your case, it should look like this.
+![design](https://user-images.githubusercontent.com/43179715/48802788-3c198380-ecde-11e8-83cd-1426e78aa705.jpeg)
+
+![usbports](https://user-images.githubusercontent.com/43179715/48802789-3c198380-ecde-11e8-87cc-513a62a06afa.jpeg)
 
 ## Production Testing
 

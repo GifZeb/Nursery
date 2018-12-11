@@ -12,7 +12,8 @@ Socket Header to attach sensor and pi together on PCB
 Case to hold ciruit together and prevent it from damage
 
 ## Budget
-[week9budgetHP.xlsx](https://github.com/GifZeb/Nursery/files/2532620/week9budgetHP.xlsx)
+![capture](https://user-images.githubusercontent.com/43179715/49830051-1a03a600-fd5e-11e8-8a75-430511c91fd6.PNG)
+
 
 ## Time Commitment
 ![schedule](https://user-images.githubusercontent.com/43179715/47048248-d6c6f580-d167-11e8-9581-ff30f216215f.PNG)

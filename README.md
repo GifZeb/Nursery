@@ -2,8 +2,10 @@
 
 ![design](https://user-images.githubusercontent.com/43179715/48802788-3c198380-ecde-11e8-83cd-1426e78aa705.jpeg)
 
-## BUILD INSTRUCTIONS
+## Introduction
 I decided to work on SHT31-D which is used to measure temperature and humidity. It is one of the most accurate sensors having excellent ±2% relative humidity and ±0.3°C accuracy.
+
+## System Diagram 
 
 ## Materials/Components
 Raspberry Pi
@@ -16,6 +18,7 @@ Case to hold ciruit together and prevent it from damage
 
 
 ## Time Commitment
+This project wcan be done in one weekend.
 ![schedule](https://user-images.githubusercontent.com/43179715/47048248-d6c6f580-d167-11e8-9581-ff30f216215f.PNG)
 
 ## Setting up Raspberry Pi
@@ -28,10 +31,15 @@ First step after getting your raspberry pi is to set it up. Follow the steps bel
 ## Mechanical Assembly
 After software installation, either you can connect you pi to your sensor using breadboard connections or you can solder your sensor.
 Breadboarding is just to check if sensor works as expected or their is a need to change some connections or if there is a damaged component.
+Wiring:
+Raspberry Pi 3V to sensor VIN
+Raspberry Pi GND to sensor GND
+Raspberry Pi SCL to sensor SCL
+Raspberry Pi SDA to sensor SDA
+Raspberry Pi VIN to sensor ADDR
 
 ## PCB / Soldering
 After soldering sensor, use the pcb schema underneath and make a power controller board
-
 ![fritz_pcb](https://user-images.githubusercontent.com/43179715/47754222-8fb12800-dc70-11e8-87b3-98ad89bb7866.png)
 
 ![99a0e5b6-66c7-4494-9c4c-d72fc71df572](https://user-images.githubusercontent.com/43179715/48144165-5f741580-e27e-11e8-89b8-15479172b483.jpg)

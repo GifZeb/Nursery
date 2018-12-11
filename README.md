@@ -5,6 +5,9 @@
 ## Introduction
 I decided to work on SHT31-D which is used to measure temperature and humidity. It is one of the most accurate sensors having excellent ±2% relative humidity and ±0.3°C accuracy.
 
+## Purpose
+To get the accurate tempreture and humidity values from SHT31-D sensor.
+
 ## System Diagram 
 
 ## Materials/Components
@@ -27,8 +30,22 @@ First step after getting your raspberry pi is to set it up. Follow the steps bel
 3. Insert SD card in raspberry pi and connect the side devices like keyboard and mouse.
 4. Switch on the power and change finish the setup.
 
+## Hardware Testing
+After software installation, make the connections using jumper wires from sensor to breadboard and breadboard to raspberry pi.
+Wiring:
+Raspberry Pi 3V  to sensor VIN
+Raspberry Pi GND to sensor GND
+Raspberry Pi SCL to sensor SCL
+Raspberry Pi SDA to sensor SDA
+Raspberry Pi VIN to sensor ADDR
+If the connections are correct then you should be able to get address from your sensor.
+![whatsapp image 2018-10-23 at 1 44 14 pm 1](https://user-images.githubusercontent.com/43179715/47379774-daa7ca00-d6c9-11e8-9b45-ac3d255f5b0c.jpeg)
+
+i2c Detection Proof (0x45)
+![whatsapp image 2018-10-23 at 1 44 14 pm](https://user-images.githubusercontent.com/43179715/47379803-ef845d80-d6c9-11e8-97a3-04ec8518f519.jpeg)
+
 ## Mechanical Assembly
-After software installation, either you can connect you pi to your sensor using breadboard connections or you can solder your sensor.
+Either you can connect you pi to your sensor using breadboard connections or you can solder your sensor.
 Breadboarding is just to check if sensor works as expected or their is a need to change some connections or if there is a damaged component.
 Wiring:
 Raspberry Pi 3V to sensor VIN

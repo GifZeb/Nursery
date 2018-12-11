@@ -1,4 +1,4 @@
-# SHT31
+# SHT31-D 
  
 <img src="https://user-images.githubusercontent.com/43179715/48802788-3c198380-ecde-11e8-83cd-1426e78aa705.jpeg" width="500" height="500">
 
@@ -48,7 +48,9 @@ First step after getting your raspberry pi is to set it up. Follow the steps bel
 4. Switch on the power and finish the further setup.
 
 ## Hardware Testing
+
 After software installation, i made the connections using jumper wires from sensor to breadboard and breadboard to raspberry pi.
+
 Wiring:
 ---
 - Raspberry Pi 3V  to sensor VIN

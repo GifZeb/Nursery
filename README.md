@@ -40,7 +40,8 @@ To get the accurate tempreture and humidity values from SHT31-D sensor.
 ## Time Commitment
 This project can be done in one weekend. It will take about 2 to 4 days to recieve the parts. If you want to skip breadboarding then you can get started with the soldering which would take about 10 minutes but testing can take about 2 hours. After getting address, it should take one more hour to run the python script and get the readings.
 This is my schedule when i started this project.
-![schedule](https://user-images.githubusercontent.com/43179715/47048248-d6c6f580-d167-11e8-9581-ff30f216215f.PNG)
+
+![scedule](https://user-images.githubusercontent.com/43179715/49835214-7bcb0c80-fd6c-11e8-9d16-ea25c0018891.png)
 
 ## Setting up Raspberry Pi
 First step after getting your raspberry pi is to set it up. Follow the steps below:

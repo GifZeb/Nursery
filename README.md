@@ -1,5 +1,7 @@
 # SHT31
 
+![design](https://user-images.githubusercontent.com/43179715/48802788-3c198380-ecde-11e8-83cd-1426e78aa705.jpeg)
+
 ## BUILD INSTRUCTIONS
 I decided to work on SHT31-D which is used to measure temperature and humidity. It is one of the most accurate sensors having excellent ±2% relative humidity and ±0.3°C accuracy.
 
@@ -10,11 +12,10 @@ Socket Header to attach sensor and pi together on PCB
 Case to hold ciruit together and prevent it from damage
 
 ## Budget
-
-
-
+[week9budgetHP.xlsx](https://github.com/GifZeb/Nursery/files/2532620/week9budgetHP.xlsx)
 
 ## Time Commitment
+![schedule](https://user-images.githubusercontent.com/43179715/47048248-d6c6f580-d167-11e8-9581-ff30f216215f.PNG)
 
 ## Setting up Raspberry Pi
 First step after getting your raspberry pi is to set it up. Follow the steps below:

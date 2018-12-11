@@ -5,14 +5,14 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Purpose](#purpose)
-3. [System Diagram](#systemdiagram)
-4. [Materials](#materials/components)
+3. [System Diagram](#system-Diagram)
+4. [Materials](#materials)
 5. [Budget](#budget)
 6. [Time Commitment](#time-Commitment)
 7. [Setting up Raspberry Pi](#setting-Up-Raspberry-Pi)
 8. [Hardware Testing](#hardware-Testing)
 9. [Mechanical Assembly](#mechanical-Assembly)
-10. [PCB Soldering](#pcb/soldering)
+10. [PCB Soldering](#pcb-Soldering)
 11. [Unit Testing](#unit-Testing)
 12. [Production Testing](#production-Testing)
 
@@ -24,7 +24,7 @@ To get the accurate tempreture and humidity values from SHT31-D sensor.
 
 ## System Diagram 
 
-## Materials/Components
+## Materials
 Raspberry Pi
 SHT31-D Temperature/Humidity Sensor
 Socket Header to attach sensor and pi together on PCB
@@ -68,7 +68,7 @@ Raspberry Pi SCL to sensor SCL
 Raspberry Pi SDA to sensor SDA
 Raspberry Pi VIN to sensor ADDR
 
-## PCB / Soldering
+## PCB Soldering
 After soldering sensor, use the pcb schema underneath and make a power controller board
 ![fritz_pcb](https://user-images.githubusercontent.com/43179715/47754222-8fb12800-dc70-11e8-87b3-98ad89bb7866.png)
 

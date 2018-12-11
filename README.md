@@ -1,6 +1,6 @@
 # SHT31
  
-![design](https://user-images.githubusercontent.com/43179715/48802788-3c198380-ecde-11e8-83cd-1426e78aa705.jpeg)
+<img src="https://user-images.githubusercontent.com/43179715/48802788-3c198380-ecde-11e8-83cd-1426e78aa705.jpeg" width="500" height="500">
 
 ## Table of Contents
 1. [Introduction](#introduction)

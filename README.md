@@ -23,6 +23,7 @@ I decided to work on SHT31-D which is used to measure temperature and humidity. 
 To get the accurate tempreture and humidity values from SHT31-D sensor.
 
 ## System Diagram 
+![systemdiagram](https://user-images.githubusercontent.com/43179715/49833646-268cfc00-fd68-11e8-81e4-7aaaad524b41.PNG)
 
 ## Materials
 Raspberry Pi
@@ -34,7 +35,7 @@ Case to hold ciruit together and prevent it from damage
 ![capture](https://user-images.githubusercontent.com/43179715/49830051-1a03a600-fd5e-11e8-8a75-430511c91fd6.PNG)
 
 ## Time Commitment
-This project wcan be done in one weekend.
+This project can be done in one weekend. Most of the time is required to get the 
 ![schedule](https://user-images.githubusercontent.com/43179715/47048248-d6c6f580-d167-11e8-9581-ff30f216215f.PNG)
 
 ## Setting up Raspberry Pi

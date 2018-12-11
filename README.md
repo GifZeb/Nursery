@@ -16,7 +16,6 @@ Case to hold ciruit together and prevent it from damage
 ## Budget
 ![capture](https://user-images.githubusercontent.com/43179715/49830051-1a03a600-fd5e-11e8-8a75-430511c91fd6.PNG)
 
-
 ## Time Commitment
 This project wcan be done in one weekend.
 ![schedule](https://user-images.githubusercontent.com/43179715/47048248-d6c6f580-d167-11e8-9581-ff30f216215f.PNG)
@@ -49,7 +48,16 @@ After all the components are connected, your PCb Should look like this
 ![rdp](https://user-images.githubusercontent.com/43179715/48446744-0cabc980-e768-11e8-82f3-a5d5947c44c8.PNG)
 
 ## Unit Testing
+Follow these steps to get readings from your sensor
+sudo apt-get update
+sudo apt-get upgrade
+
+To install sht31d libraies, run this command
+sudo pip3 install adafruit-circuitpython-sht31d
+
+You can use the code underneath to get the readings from your sensor:
+![python](https://user-images.githubusercontent.com/43179715/49831177-4240d400-fd61-11e8-8916-dc696a5d254c.PNG)
+
 
 ## Production Testing
 
-Is the project reproducible by following your instructions?

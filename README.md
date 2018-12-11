@@ -92,14 +92,16 @@ Breadboarding is just to check if sensor works as expected or their is a need to
 
 
 ## PCB Soldering
-After soldering sensor, use the pcb schema underneath and make a power controller board
+After soldering sensor, use the pcb schema underneath and make a power controller board to attach your sensor and raspberry pi.
+
 ![fritz_pcb](https://user-images.githubusercontent.com/43179715/47754222-8fb12800-dc70-11e8-87b3-98ad89bb7866.png)
 
+I got this after soldering my pcb and there are socket headers to connect raspberry pi and sensor to the pcb.
 ![99a0e5b6-66c7-4494-9c4c-d72fc71df572](https://user-images.githubusercontent.com/43179715/48144165-5f741580-e27e-11e8-89b8-15479172b483.jpg)
 
 ### Power Up
-After all the components are connected, your PCb Should look like this
-![rdp](https://user-images.githubusercontent.com/43179715/48446744-0cabc980-e768-11e8-82f3-a5d5947c44c8.PNG)
+After all the components are connected, your PCb Should look like this.
+![whatsapp image 2018-11-13 at 10 50 46 pm](https://user-images.githubusercontent.com/43179715/48459391-c9694f00-e797-11e8-87b8-390ad1ba5433.jpeg) 
 
 ## Unit Testing
 Follow these steps to get readings from your sensor.
@@ -113,6 +115,7 @@ To install sht31d libraies, run this command
 ````
 sudo pip3 install adafruit-circuitpython-sht31d
 ````
+
 ## Python Script
 You can use the code underneath to get the readings from your sensor:
 ![python](https://user-images.githubusercontent.com/43179715/49831177-4240d400-fd61-11e8-8916-dc696a5d254c.PNG)

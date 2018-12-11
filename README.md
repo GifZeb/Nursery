@@ -8,13 +8,13 @@
 3. [System Diagram](#systemdiagram)
 4. [Materials](#materials/components)
 5. [Budget](#budget)
-6. [Time Commitment](#timecommitment)
-7. [Setting up Raspberry Pi](#settingupraspberrypi)
-8. [Hardware Testing](#hardwaretesting)
-9. [Mechanical Assembly](#mechanicalassembly)
+6. [Time Commitment](#time-Commitment)
+7. [Setting up Raspberry Pi](#setting-Up-Raspberry-Pi)
+8. [Hardware Testing](#hardware-Testing)
+9. [Mechanical Assembly](#mechanical-Assembly)
 10. [PCB Soldering](#pcb/soldering)
-11. [Unit Testing](#unittesting)
-12. [Production Testing](#productiontesting)
+11. [Unit Testing](#unit-Testing)
+12. [Production Testing](#production-Testing)
 
 ## Introduction
 I decided to work on SHT31-D which is used to measure temperature and humidity. It is one of the most accurate sensors having excellent ±2% relative humidity and ±0.3°C accuracy.

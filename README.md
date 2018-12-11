@@ -61,12 +61,13 @@ i2c Detection Proof (0x45)
 ## Mechanical Assembly
 Either you can connect you pi to your sensor using breadboard connections or you can solder your sensor.
 Breadboarding is just to check if sensor works as expected or their is a need to change some connections or if there is a damaged component.
-Wiring:
-Raspberry Pi 3V to sensor VIN
-Raspberry Pi GND to sensor GND
-Raspberry Pi SCL to sensor SCL
-Raspberry Pi SDA to sensor SDA
-Raspberry Pi VIN to sensor ADDR
+| SHT31 | Raspberry Pi |
+|-------|--------------|
+| VIN   | 3V |
+| GND   | GND |
+| SCL   | SCL |
+| SDA   | SDA |
+| ADDR  | VIN |
 
 ## PCB Soldering
 After soldering sensor, use the pcb schema underneath and make a power controller board
